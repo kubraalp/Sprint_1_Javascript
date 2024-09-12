@@ -13,7 +13,7 @@ console.log(result);
 
 
 /* Görev 2: Koşullu İfadeler
-100%
+
 yas isimli bir değişken tanımlayalım ve değerini 0-100 arası bir sayı yapalım.
 ucret isimli bir değişken tanımlayalım ve değerini 450 yapalım.
 Tren bilet ücretindeki indirim oranları aşağıdaki gibidir. yaşa göre indirim oranlarını kullanarak ödenmesi gereken ucret degerini guncelleyin.
@@ -40,7 +40,7 @@ if (yas >= 65 || yas < 10) {
 }
 
 /* Gün Projesi: Dönem Sonu Notu Uygulaması
-100%
+
 Çalıştığınız yazılım şirketi bir üniversiteye platform geliştiriyor. Siz de geliştirme ekibine alındınız. Ve ekip yöneticinizden sabah bir email aldınız. Projenin önemli bir kodunu yazmanızı istiyor: "Öğrencilerin sınav sonuçlarını hesaplayan kodu yazıp bugün akşama kadar gönderir misin? Kolay gelsin." Böylece yazılımcı olarak ilk işinizi aldınız. Başarılar!
 
 Yöneticiniz bilgi notunda şu detayları vermiş:
